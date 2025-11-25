@@ -1,0 +1,10 @@
+1997, Harry Potter e a Pedra Filosofal, J.K. Rowling,9.0, LIDO
+1954, A Sociedade do Anel, J.R.R Tolkien,10.0, LENDO
+1960, o Sol é para Todos, Harper Lee,9.0, NA FILA
+2003, O Código Da Vinci, Dan Brown,5.0, LIDO
+1985, It-A Coisa, Stephen King,4.0, LENDO
+2011, A Dança dos Dragões, George R.R. Martin,7.0, NA FILA
+2018,Minha História , Michelle Obama,7.0, LIDO
+2005, A Menina que Roubava livros, Markus Zusak,6.0, NA FILA
+2012, A Culpa é das Estrelas, John Green,2.0, LIDO
+2015, A Garota do Trem, Paula Hawkins,10.0, NA FILA
